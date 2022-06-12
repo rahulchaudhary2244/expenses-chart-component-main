@@ -1,0 +1,45 @@
+body {
+	margin: 0px;
+}
+.background {
+	background-color: #eeac8d4b;
+	height: 100vh;
+	width: auto;
+	font-family: "Inter", sans-serif;
+}
+.expense-tracker {
+	max-width: 33rem;
+	min-width: 20rem;
+}
+.expense-icon {
+	height: 3.125rem;
+	width: auto;
+}
+.balance-card {
+	background-color: #f37e79b8;
+	border-radius: 0.625rem;
+}
+.detail-card {
+	background-color: #ffffff;
+	border-radius: 0.625rem;
+}
+.text-gray {
+	color: gray;
+}
+.text-dark-brown {
+	color: #481420ed;
+}
+.attribution {
+	background-color: rgba(131, 14, 185, 0.616);
+	text-align: center;
+	color: white;
+	padding: 0.313rem;
+	font-size: medium;
+	font-style: italic;
+}
+
+.attribution a {
+	font-style: normal;
+	color: rgb(7, 9, 39);
+	text-transform: capitalize;
+}
